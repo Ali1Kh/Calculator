@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;500&display=swap');
+*{
+  font-family: 'AR One Sans', sans-serif;
+}
+main{
+  background-color: #9BABB8;
+  /* background-image: url('./imgs/background.jpg');
+  background-size: cover; */
+}
+.frame{
+  width: 330px;
+}
+.btnMainColor{
+  background-color: #4d4c4c !important;
+  color: white !important;
+}
+.opertatorBtn{
+  background-color: #666767 !important;
+  color: white !important;
+}
+.btnMainColor,.opertatorBtn{
+transition: all 400ms !important;
+}
+.btnMainColor:hover,.opertatorBtn:hover{
+  color: black !important;
+}
