@@ -20,14 +20,14 @@ function App() {
     });
   }, []);
 
-  function clicked(e, keypress) {
+  function clicked(e,keypress) {
     let input = $(".screen .inputText");
     let inputText = input.text();
     let clickedValue;
     if (e == null) {
       clickedValue = keypress;
     } else {
-      clickedValue = keypress;
+      clickedValue = e.target.value;
     }
     if (
       clickedValue == "." &&
