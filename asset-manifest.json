@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.e76c6efb.css",
-    "main.js": "/Calculator/static/js/main.af6b5d7e.js",
+    "main.css": "/Calculator/static/css/main.3b61306b.css",
+    "main.js": "/Calculator/static/js/main.822fd2d3.js",
     "static/media/fa-solid-900.ttf": "/Calculator/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/Calculator/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/Calculator/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/fa-brands-400.woff2": "/Calculator/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/fa-regular-400.ttf": "/Calculator/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/logo.png": "/Calculator/static/media/logo.817d77b0c07920fda4c7.png",
     "static/media/fa-regular-400.woff2": "/Calculator/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
     "static/media/fa-v4compatibility.ttf": "/Calculator/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/Calculator/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/Calculator/index.html",
-    "main.e76c6efb.css.map": "/Calculator/static/css/main.e76c6efb.css.map",
-    "main.af6b5d7e.js.map": "/Calculator/static/js/main.af6b5d7e.js.map"
+    "main.3b61306b.css.map": "/Calculator/static/css/main.3b61306b.css.map",
+    "main.822fd2d3.js.map": "/Calculator/static/js/main.822fd2d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e76c6efb.css",
-    "static/js/main.af6b5d7e.js"
+    "static/css/main.3b61306b.css",
+    "static/js/main.822fd2d3.js"
   ]
 }
